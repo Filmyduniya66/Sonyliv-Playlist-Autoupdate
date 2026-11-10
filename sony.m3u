@@ -2,19 +2,37 @@
 # name: Premium Plugx Sliv events
 # Powered by Premium Plugx
 # Source : PAGE-V2/2245 (dynamic tray discovery · v6.5/3.6.88)
-# Generated : 2026-11-09 15:08:56 IST
-# Token exp : 2026-11-10 03:08:54 IST
-# Events    : 2 total, 0 new
+# Generated : 2026-11-10 08:10:24 IST
+# Token exp : 2026-11-10 20:10:21 IST
+# Events    : 1 total, 0 new
 
-#EXTINF:-1 tvg-id="1090553301-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028501/1793998959168722_ACC_MensU19_Bangladesh_vs_Malaysia_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Bangladesh vs Malaysia - 9 Nov 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120301/Criclive0911/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794260334~acl=/*~id=7cc65a650011828721dce0eb34dcbd23-1794217134143~hmac=28797c39b57dd4ae6d28b83a7392310c4d35bf2578b03b95e84995643b6c068c
+#EXTINF:-1 tvg-id="1090553316-hin" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028620/1794072411936945_NZvsIND_3rd_ODI_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", 3rd ODI - 10 Nov 2026 [HIN]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_0911/HIN/std_lrl-800300010.m3u8?hdnea=exp=1794321621~acl=/*~id=b204c3f9cf307e266adef4c71e72a5f2-1794278421447~hmac=05751dfc93da0b98f8d2ecb11ced7c2595c5f99aff4739c9c7131984bf59d6da
 
-#EXTINF:-1 tvg-id="1090553301-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028501/1793998959168722_ACC_MensU19_Bangladesh_vs_Malaysia_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Bangladesh vs Malaysia - 9 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/GdXyj0gmRmGkNncprYKFBQ/master.m3u8
+#EXTINF:-1 tvg-id="1090553316-hin-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028620/1794072411936945_NZvsIND_3rd_ODI_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", 3rd ODI - 10 Nov 2026 [HIN DAI]
+https://dai.google.com/ssai/event/GB-SxkbkTWCj5JOrO3-E7g/master.m3u8
 
-#EXTINF:-1 tvg-id="1090553302-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028502/1793999538076640_ACC_MensU19_Sri_Lanka_vs_Afghanistan_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sri Lanka vs Afghanistan - 9 Nov 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120302/Criclive0911/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794260334~acl=/*~id=7cc65a650011828721dce0eb34dcbd23-1794217134143~hmac=28797c39b57dd4ae6d28b83a7392310c4d35bf2578b03b95e84995643b6c068c
+#EXTINF:-1 tvg-id="1090553316-tel" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028620/1794072411936945_NZvsIND_3rd_ODI_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", 3rd ODI - 10 Nov 2026 [TEL]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119941/cricodi_0911/TEL/std_lrl-800300010.m3u8?hdnea=exp=1794321621~acl=/*~id=b204c3f9cf307e266adef4c71e72a5f2-1794278421447~hmac=05751dfc93da0b98f8d2ecb11ced7c2595c5f99aff4739c9c7131984bf59d6da
 
-#EXTINF:-1 tvg-id="1090553302-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028502/1793999538076640_ACC_MensU19_Sri_Lanka_vs_Afghanistan_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sri Lanka vs Afghanistan - 9 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/o8SXGLQ5TreQRVnCQUAKJQ/master.m3u8
+#EXTINF:-1 tvg-id="1090553316-tel-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028620/1794072411936945_NZvsIND_3rd_ODI_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", 3rd ODI - 10 Nov 2026 [TEL DAI]
+https://dai.google.com/ssai/event/q8r8RIRsRpS9P1T4Wq1dBA/master.m3u8
+
+#EXTINF:-1 tvg-id="1090553316-tam" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028620/1794072411936945_NZvsIND_3rd_ODI_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", 3rd ODI - 10 Nov 2026 [TAM]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119951/cricodi_0911/TAM/std_lrl-800300010.m3u8?hdnea=exp=1794321621~acl=/*~id=b204c3f9cf307e266adef4c71e72a5f2-1794278421447~hmac=05751dfc93da0b98f8d2ecb11ced7c2595c5f99aff4739c9c7131984bf59d6da
+
+#EXTINF:-1 tvg-id="1090553316-tam-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028620/1794072411936945_NZvsIND_3rd_ODI_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", 3rd ODI - 10 Nov 2026 [TAM DAI]
+https://dai.google.com/ssai/event/Eu4uu53PS1i6RWZCvuh7ww/master.m3u8
+
+#EXTINF:-1 tvg-id="1090553316-kan" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028620/1794072411936945_NZvsIND_3rd_ODI_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", 3rd ODI - 10 Nov 2026 [KAN]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119782/cricodi_0911/KAN/std_lrl-800300010.m3u8?hdnea=exp=1794321621~acl=/*~id=b204c3f9cf307e266adef4c71e72a5f2-1794278421447~hmac=05751dfc93da0b98f8d2ecb11ced7c2595c5f99aff4739c9c7131984bf59d6da
+
+#EXTINF:-1 tvg-id="1090553316-kan-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028620/1794072411936945_NZvsIND_3rd_ODI_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", 3rd ODI - 10 Nov 2026 [KAN DAI]
+https://dai.google.com/ssai/event/ZJng4rSzSzKMaHFvzlAmZA/master.m3u8
+
+#EXTINF:-1 tvg-id="1090553316-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028620/1794072411936945_NZvsIND_3rd_ODI_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", 3rd ODI - 10 Nov 2026 [ENG]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_0911/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794321621~acl=/*~id=b204c3f9cf307e266adef4c71e72a5f2-1794278421447~hmac=05751dfc93da0b98f8d2ecb11ced7c2595c5f99aff4739c9c7131984bf59d6da
+
+#EXTINF:-1 tvg-id="1090553316-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028620/1794072411936945_NZvsIND_3rd_ODI_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", 3rd ODI - 10 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/jrKIOZsGTju4MxXaWpgU3w/master.m3u8
 
