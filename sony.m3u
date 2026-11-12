@@ -2,13 +2,13 @@
 # name: Premium Plugx Sliv events
 # Powered by Premium Plugx
 # Source : PAGE-V2/2245 (dynamic tray discovery · v6.5/3.6.88)
-# Generated : 2026-11-12 09:44:08 IST
-# Token exp : 2026-11-12 21:44:06 IST
+# Generated : 2026-11-12 18:15:16 IST
+# Token exp : 2026-11-13 06:15:02 IST
 # Events    : 1 total, 0 new
 
-#EXTINF:-1 tvg-id="1090553552-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887681050295_ASIANTOUR2026_Philippine_Open_Day1_landscape_thumb.jpg" group-title="Premium Plugx Sports", Philippine Open - Day 1 - 12 Nov 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_Phi1211/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794500046~acl=/*~id=9d012a46357ed5afbf0d349a2d1c1862-1794456846406~hmac=f9dbc80aec30c67a4cdf3f3908a98ef8d9980499c3096363a3a179f39ec2ff7c
+#EXTINF:-1 tvg-id="1090553557-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398859855427_DP_World_Tour_Championship_Dubai_day1_landscape_thumb.jpg" group-title="Premium Plugx Sports", DP World Tour Champinship, Dubai - Day 1 - 12 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120300/Golf_DPW1211/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794530702~acl=/*~id=6638806c9bb80e8cd8c229861c5310e7-1794487501932~hmac=4650d1444f1ed195fda671ebe0ec21215d5e86547c400fdd5e03564efa535cd7
 
-#EXTINF:-1 tvg-id="1090553552-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887681050295_ASIANTOUR2026_Philippine_Open_Day1_landscape_thumb.jpg" group-title="Premium Plugx Sports", Philippine Open - Day 1 - 12 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8
+#EXTINF:-1 tvg-id="1090553557-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398859855427_DP_World_Tour_Championship_Dubai_day1_landscape_thumb.jpg" group-title="Premium Plugx Sports", DP World Tour Champinship, Dubai - Day 1 - 12 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/GdXyj0gmRmGkNncprYKFBQ/master.m3u8
 
