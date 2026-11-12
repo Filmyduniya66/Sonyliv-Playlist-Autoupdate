@@ -2,13 +2,43 @@
 # name: Premium Plugx Sliv events
 # Powered by Premium Plugx
 # Source : PAGE-V2/2245 (dynamic tray discovery · v6.5/3.6.88)
-# Generated : 2026-11-12 18:15:16 IST
-# Token exp : 2026-11-13 06:15:02 IST
-# Events    : 1 total, 0 new
+# Generated : 2026-11-13 01:59:08 IST
+# Token exp : 2026-11-13 13:59:07 IST
+# Events    : 6 total, 0 new
 
-#EXTINF:-1 tvg-id="1090553557-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398859855427_DP_World_Tour_Championship_Dubai_day1_landscape_thumb.jpg" group-title="Premium Plugx Sports", DP World Tour Champinship, Dubai - Day 1 - 12 Nov 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120300/Golf_DPW1211/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794530702~acl=/*~id=6638806c9bb80e8cd8c229861c5310e7-1794487501932~hmac=4650d1444f1ed195fda671ebe0ec21215d5e86547c400fdd5e03564efa535cd7
+#EXTINF:-1 tvg-id="1090553575-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793255214156508_UNL26_MD5_Albania-vs-Finland_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Albania vs Finland - 13 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive1211/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794558547~acl=/*~id=60bd76ae583442c7580b2a5f753629bc-1794515346702~hmac=5d17639559f49fd8e3fa84fe1cbd8d2f1fbaec6006c54f5db3e305bec64b2f4a
 
-#EXTINF:-1 tvg-id="1090553557-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398859855427_DP_World_Tour_Championship_Dubai_day1_landscape_thumb.jpg" group-title="Premium Plugx Sports", DP World Tour Champinship, Dubai - Day 1 - 12 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/GdXyj0gmRmGkNncprYKFBQ/master.m3u8
+#EXTINF:-1 tvg-id="1090553575-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793255214156508_UNL26_MD5_Albania-vs-Finland_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Albania vs Finland - 13 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/AN3dE5kTSt6ZIfxddIcoag/master.m3u8
+
+#EXTINF:-1 tvg-id="1090553573-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793254891164508_UNL26_MD5_Czechia-vs-Spain_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Czechia vs Spain - 13 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1211/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794558547~acl=/*~id=60bd76ae583442c7580b2a5f753629bc-1794515346702~hmac=5d17639559f49fd8e3fa84fe1cbd8d2f1fbaec6006c54f5db3e305bec64b2f4a
+
+#EXTINF:-1 tvg-id="1090553573-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793254891164508_UNL26_MD5_Czechia-vs-Spain_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Czechia vs Spain - 13 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/VgbqXb98QTSBjBY07kTOPA/master.m3u8
+
+#EXTINF:-1 tvg-id="1090553579-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027677/1793257674840871_UNL26_MD5_England-vs-Croatia_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", England vs Croatia - 13 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive1211/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794558547~acl=/*~id=60bd76ae583442c7580b2a5f753629bc-1794515346702~hmac=5d17639559f49fd8e3fa84fe1cbd8d2f1fbaec6006c54f5db3e305bec64b2f4a
+
+#EXTINF:-1 tvg-id="1090553579-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027677/1793257674840871_UNL26_MD5_England-vs-Croatia_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", England vs Croatia - 13 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/1L-mQIceRleayqoATY9gmw/master.m3u8
+
+#EXTINF:-1 tvg-id="1090553578-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793257198950508_UNL26_MD5_Italy-vs-France_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Italy vs France - 13 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1211/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794558547~acl=/*~id=60bd76ae583442c7580b2a5f753629bc-1794515346702~hmac=5d17639559f49fd8e3fa84fe1cbd8d2f1fbaec6006c54f5db3e305bec64b2f4a
+
+#EXTINF:-1 tvg-id="1090553578-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793257198950508_UNL26_MD5_Italy-vs-France_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Italy vs France - 13 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/j96j3V0VQNm-l1bH8TE1Lg/master.m3u8
+
+#EXTINF:-1 tvg-id="1090553576-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793255552146508_UNL26_MD5_Montenegro-vs-Latvia_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Montenegro vs Latvia - 13 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1211/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794558547~acl=/*~id=60bd76ae583442c7580b2a5f753629bc-1794515346702~hmac=5d17639559f49fd8e3fa84fe1cbd8d2f1fbaec6006c54f5db3e305bec64b2f4a
+
+#EXTINF:-1 tvg-id="1090553576-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793255552146508_UNL26_MD5_Montenegro-vs-Latvia_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Montenegro vs Latvia - 13 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/urJiNdAfTz-oUiy1vWzIhw/master.m3u8
+
+#EXTINF:-1 tvg-id="1090553577-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793256942014508_UNL26_MD5_San-Marino-vs-Belarus_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", San Marino vs Belarus - 13 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive1211/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794558547~acl=/*~id=60bd76ae583442c7580b2a5f753629bc-1794515346702~hmac=5d17639559f49fd8e3fa84fe1cbd8d2f1fbaec6006c54f5db3e305bec64b2f4a
+
+#EXTINF:-1 tvg-id="1090553577-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793256942014508_UNL26_MD5_San-Marino-vs-Belarus_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", San Marino vs Belarus - 13 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/Q7EWPu-bRBCero8cu-Z6aQ/master.m3u8
 
