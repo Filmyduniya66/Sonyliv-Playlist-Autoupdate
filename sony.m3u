@@ -2,19 +2,13 @@
 # name: Premium Plugx Sliv events
 # Powered by Premium Plugx
 # Source : PAGE-V2/2245 (dynamic tray discovery · v6.5/3.6.88)
-# Generated : 2026-11-10 15:56:01 IST
-# Token exp : 2026-11-11 03:55:59 IST
-# Events    : 2 total, 0 new
+# Generated : 2026-11-12 09:44:08 IST
+# Token exp : 2026-11-12 21:44:06 IST
+# Events    : 1 total, 0 new
 
-#EXTINF:-1 tvg-id="1090553324-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028503/1794000882307878_ACC_MensU19_India_vs_UAE_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", India vs UAE - 10 Nov 2026 [ENG]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119735/cricodi_1011/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794349559~acl=/*~id=4fc1df6b6b19b8937d585793df304483-1794306358570~hmac=782f344992965ee2ef8b50c113718284a2273151cd0e4753618a0a1b00042bcf
+#EXTINF:-1 tvg-id="1090553552-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887681050295_ASIANTOUR2026_Philippine_Open_Day1_landscape_thumb.jpg" group-title="Premium Plugx Sports", Philippine Open - Day 1 - 12 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_Phi1211/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794500046~acl=/*~id=9d012a46357ed5afbf0d349a2d1c1862-1794456846406~hmac=f9dbc80aec30c67a4cdf3f3908a98ef8d9980499c3096363a3a179f39ec2ff7c
 
-#EXTINF:-1 tvg-id="1090553324-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028503/1794000882307878_ACC_MensU19_India_vs_UAE_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", India vs UAE - 10 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/8EnSFBkbQLyxSn0JDl-bdQ/master.m3u8
-
-#EXTINF:-1 tvg-id="1090553322-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028504/179400165277048_ACC_MensU19_Pakistan_vs_Nepal_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Pakistan vs Nepal - 10 Nov 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120300/Criclive1011/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794349559~acl=/*~id=4fc1df6b6b19b8937d585793df304483-1794306358570~hmac=782f344992965ee2ef8b50c113718284a2273151cd0e4753618a0a1b00042bcf
-
-#EXTINF:-1 tvg-id="1090553322-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028504/179400165277048_ACC_MensU19_Pakistan_vs_Nepal_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Pakistan vs Nepal - 10 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/UpH4UngGS3S6Wt3YU5PjuQ/master.m3u8
+#EXTINF:-1 tvg-id="1090553552-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887681050295_ASIANTOUR2026_Philippine_Open_Day1_landscape_thumb.jpg" group-title="Premium Plugx Sports", Philippine Open - Day 1 - 12 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8
 
