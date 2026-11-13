@@ -2,49 +2,13 @@
 # name: Premium Plugx Sliv events
 # Powered by Premium Plugx
 # Source : PAGE-V2/2245 (dynamic tray discovery · v6.5/3.6.88)
-# Generated : 2026-11-13 13:41:41 IST
-# Token exp : 2026-11-14 01:41:39 IST
-# Events    : 3 total, 0 new
+# Generated : 2026-11-13 21:50:51 IST
+# Token exp : 2026-11-14 09:50:47 IST
+# Events    : 1 total, 0 new
 
-#EXTINF:-1 tvg-id="1090553595-hin" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028746/1794294832944627_NZvsIND_4th_ODI_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", 4th ODI - 13 Nov 2026 [HIN]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_1211/HIN/std_lrl-800300010.m3u8?hdnea=exp=1794600699~acl=/*~id=73b28faa888c87ff5a33bbb6b2de1408-1794557493715~hmac=6901e3121a65a0c9f9a0974e49b7f0070139d22bc74fed1e3998eb8c222d38bc
+#EXTINF:-1 tvg-id="1090553651-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027677/1793258155606871_UNL26_MD5_Moldova-vs-Kazakhstan_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Moldova vs Kazakhstan - 13 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1311/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794630047~acl=/*~id=508d5e35ed6ea0d17999556ecd118b52-1794586846772~hmac=145534ae6cf590fe4f6e4fc3d14a334fd3ac9de13c81edc81169a76b8a5c9709
 
-#EXTINF:-1 tvg-id="1090553595-hin-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028746/1794294832944627_NZvsIND_4th_ODI_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", 4th ODI - 13 Nov 2026 [HIN DAI]
-https://dai.google.com/ssai/event/t2rqeJPuSQuYLwlNYZPhpw/master.m3u8
-
-#EXTINF:-1 tvg-id="1090553595-tel" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028746/1794294832944627_NZvsIND_4th_ODI_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", 4th ODI - 13 Nov 2026 [TEL]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119941/cricodi_1211/TEL/std_lrl-800300010.m3u8?hdnea=exp=1794600699~acl=/*~id=73b28faa888c87ff5a33bbb6b2de1408-1794557493715~hmac=6901e3121a65a0c9f9a0974e49b7f0070139d22bc74fed1e3998eb8c222d38bc
-
-#EXTINF:-1 tvg-id="1090553595-tel-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028746/1794294832944627_NZvsIND_4th_ODI_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", 4th ODI - 13 Nov 2026 [TEL DAI]
-https://dai.google.com/ssai/event/CTa-cJ59T027atEU9JPuiQ/master.m3u8
-
-#EXTINF:-1 tvg-id="1090553595-tam" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028746/1794294832944627_NZvsIND_4th_ODI_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", 4th ODI - 13 Nov 2026 [TAM]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119951/cricodi_1211/TAM/std_lrl-800300010.m3u8?hdnea=exp=1794600699~acl=/*~id=73b28faa888c87ff5a33bbb6b2de1408-1794557493715~hmac=6901e3121a65a0c9f9a0974e49b7f0070139d22bc74fed1e3998eb8c222d38bc
-
-#EXTINF:-1 tvg-id="1090553595-tam-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028746/1794294832944627_NZvsIND_4th_ODI_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", 4th ODI - 13 Nov 2026 [TAM DAI]
-https://dai.google.com/ssai/event/-4g0R3J9QB-su4MCh0OQ6g/master.m3u8
-
-#EXTINF:-1 tvg-id="1090553595-kan" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028746/1794294832944627_NZvsIND_4th_ODI_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", 4th ODI - 13 Nov 2026 [KAN]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119782/cricodi_1211/KAN/std_lrl-800300010.m3u8?hdnea=exp=1794600699~acl=/*~id=73b28faa888c87ff5a33bbb6b2de1408-1794557493715~hmac=6901e3121a65a0c9f9a0974e49b7f0070139d22bc74fed1e3998eb8c222d38bc
-
-#EXTINF:-1 tvg-id="1090553595-kan-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028746/1794294832944627_NZvsIND_4th_ODI_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", 4th ODI - 13 Nov 2026 [KAN DAI]
-https://dai.google.com/ssai/event/3CcfN67CQO-hg2muZyRoYA/master.m3u8
-
-#EXTINF:-1 tvg-id="1090553595-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028746/1794294832944627_NZvsIND_4th_ODI_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", 4th ODI - 13 Nov 2026 [ENG]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1211/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794600699~acl=/*~id=73b28faa888c87ff5a33bbb6b2de1408-1794557493715~hmac=6901e3121a65a0c9f9a0974e49b7f0070139d22bc74fed1e3998eb8c222d38bc
-
-#EXTINF:-1 tvg-id="1090553595-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028746/1794294832944627_NZvsIND_4th_ODI_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", 4th ODI - 13 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/LdAF3qixR7m1e_v000QMHA/master.m3u8
-
-#EXTINF:-1 tvg-id="1090553604-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398866789427_DP_World_Tour_Championship_Dubai_day2_landscape_thumb.jpg" group-title="Premium Plugx Sports", DP World Tour Championship, Dubai - Day 2 - 13 Nov 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/Golf_DPW1311/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794600699~acl=/*~id=73b28faa888c87ff5a33bbb6b2de1408-1794557493715~hmac=6901e3121a65a0c9f9a0974e49b7f0070139d22bc74fed1e3998eb8c222d38bc
-
-#EXTINF:-1 tvg-id="1090553604-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398866789427_DP_World_Tour_Championship_Dubai_day2_landscape_thumb.jpg" group-title="Premium Plugx Sports", DP World Tour Championship, Dubai - Day 2 - 13 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/ArM_oDI0S3aYa0vwO6J8yA/master.m3u8
-
-#EXTINF:-1 tvg-id="1090553601-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887693162295_ASIANTOUR2026_Philippine_Open_Day2_landscape_thumb.jpg" group-title="Premium Plugx Sports", Philippine Open - Day 2 - 13 Nov 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/Golf_Phi1311/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794600699~acl=/*~id=73b28faa888c87ff5a33bbb6b2de1408-1794557493715~hmac=6901e3121a65a0c9f9a0974e49b7f0070139d22bc74fed1e3998eb8c222d38bc
-
-#EXTINF:-1 tvg-id="1090553601-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887693162295_ASIANTOUR2026_Philippine_Open_Day2_landscape_thumb.jpg" group-title="Premium Plugx Sports", Philippine Open - Day 2 - 13 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/DV7FCTo7QhSaVIo2F7pFEQ/master.m3u8
+#EXTINF:-1 tvg-id="1090553651-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027677/1793258155606871_UNL26_MD5_Moldova-vs-Kazakhstan_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Moldova vs Kazakhstan - 13 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
 
