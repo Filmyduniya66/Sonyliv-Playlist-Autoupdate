@@ -2,13 +2,43 @@
 # name: Premium Plugx Sliv events
 # Powered by Premium Plugx
 # Source : PAGE-V2/2245 (dynamic tray discovery · v6.5/3.6.88)
-# Generated : 2026-11-14 07:44:51 IST
-# Token exp : 2026-11-14 19:44:49 IST
-# Events    : 1 total, 0 new
+# Generated : 2026-11-14 14:30:32 IST
+# Token exp : 2026-11-15 02:30:29 IST
+# Events    : 2 total, 0 new
 
-#EXTINF:-1 tvg-id="1090553928-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887700360295_ASIANTOUR2026_Philippine_Open_Day3_landscape_thumb.jpg" group-title="Premium Plugx Sports", Philippine Open - Day 3 - 14 Nov 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_Phi1411/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794665689~acl=/*~id=bd716b63f165aa118fefb83f6f75a73e-1794622488711~hmac=14187f4b0bb91b4e5d5f91ef5ce2f429a85b4050be45a5aed6c157dc74f4cbc1
+#EXTINF:-1 tvg-id="1090553932-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398873589427_DP_World_Tour_Championship_Dubai_day3_landscape_thumb.jpg" group-title="Premium Plugx Sports", DP World Tour Championship, Dubai - Day 3 - 14 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_DPW1411/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794690029~acl=/*~id=b5ae97c4c8338ab4f65d9092cfb5c7a4-1794646828982~hmac=373b89ae27775ffdeb0764098d37f6abc8c4ecb3a17ef52d2c48438bfc729073
 
-#EXTINF:-1 tvg-id="1090553928-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887700360295_ASIANTOUR2026_Philippine_Open_Day3_landscape_thumb.jpg" group-title="Premium Plugx Sports", Philippine Open - Day 3 - 14 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/4CO8p1OmQhKwNcYCQpmFXw/master.m3u8
+#EXTINF:-1 tvg-id="1090553932-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398873589427_DP_World_Tour_Championship_Dubai_day3_landscape_thumb.jpg" group-title="Premium Plugx Sports", DP World Tour Championship, Dubai - Day 3 - 14 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/I5SFBeq7THGsIIwTbR6bcQ/master.m3u8
+
+#EXTINF:-1 tvg-id="1090553929-hin" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Pakistan vs India - Final - 14 Nov 2026 [HIN]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_1411/HIN/std_lrl-800300010.m3u8?hdnea=exp=1794690029~acl=/*~id=b5ae97c4c8338ab4f65d9092cfb5c7a4-1794646828982~hmac=373b89ae27775ffdeb0764098d37f6abc8c4ecb3a17ef52d2c48438bfc729073
+
+#EXTINF:-1 tvg-id="1090553929-hin-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Pakistan vs India - Final - 14 Nov 2026 [HIN DAI]
+https://dai.google.com/ssai/event/j96j3V0VQNm-l1bH8TE1Lg/master.m3u8
+
+#EXTINF:-1 tvg-id="1090553929-tel" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Pakistan vs India - Final - 14 Nov 2026 [TEL]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119941/cricodi_1411/TEL/std_lrl-800300010.m3u8?hdnea=exp=1794690029~acl=/*~id=b5ae97c4c8338ab4f65d9092cfb5c7a4-1794646828982~hmac=373b89ae27775ffdeb0764098d37f6abc8c4ecb3a17ef52d2c48438bfc729073
+
+#EXTINF:-1 tvg-id="1090553929-tel-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Pakistan vs India - Final - 14 Nov 2026 [TEL DAI]
+https://dai.google.com/ssai/event/lmNrofCLSbuOB2zQZBo3Hw/master.m3u8
+
+#EXTINF:-1 tvg-id="1090553929-tam" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Pakistan vs India - Final - 14 Nov 2026 [TAM]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119951/cricodi_1411/TAM/std_lrl-800300010.m3u8?hdnea=exp=1794690029~acl=/*~id=b5ae97c4c8338ab4f65d9092cfb5c7a4-1794646828982~hmac=373b89ae27775ffdeb0764098d37f6abc8c4ecb3a17ef52d2c48438bfc729073
+
+#EXTINF:-1 tvg-id="1090553929-tam-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Pakistan vs India - Final - 14 Nov 2026 [TAM DAI]
+https://dai.google.com/ssai/event/_PjIG8_URyq2kpapR8dACw/master.m3u8
+
+#EXTINF:-1 tvg-id="1090553929-kan" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Pakistan vs India - Final - 14 Nov 2026 [KAN]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119782/cricodi_1411/KAN/std_lrl-800300010.m3u8?hdnea=exp=1794690029~acl=/*~id=b5ae97c4c8338ab4f65d9092cfb5c7a4-1794646828982~hmac=373b89ae27775ffdeb0764098d37f6abc8c4ecb3a17ef52d2c48438bfc729073
+
+#EXTINF:-1 tvg-id="1090553929-kan-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Pakistan vs India - Final - 14 Nov 2026 [KAN DAI]
+https://dai.google.com/ssai/event/u5QstzpKTJGWhEZbsA_7Ng/master.m3u8
+
+#EXTINF:-1 tvg-id="1090553929-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Pakistan vs India - Final - 14 Nov 2026 [ENG]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1411/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794690029~acl=/*~id=b5ae97c4c8338ab4f65d9092cfb5c7a4-1794646828982~hmac=373b89ae27775ffdeb0764098d37f6abc8c4ecb3a17ef52d2c48438bfc729073
+
+#EXTINF:-1 tvg-id="1090553929-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Pakistan vs India - Final - 14 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/HNei_j1ZS7GJhL1GjSfiBg/master.m3u8
 
