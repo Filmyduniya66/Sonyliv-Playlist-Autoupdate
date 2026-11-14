@@ -2,13 +2,13 @@
 # name: Premium Plugx Sliv events
 # Powered by Premium Plugx
 # Source : PAGE-V2/2245 (dynamic tray discovery · v6.5/3.6.88)
-# Generated : 2026-11-13 21:50:51 IST
-# Token exp : 2026-11-14 09:50:47 IST
+# Generated : 2026-11-14 07:44:51 IST
+# Token exp : 2026-11-14 19:44:49 IST
 # Events    : 1 total, 0 new
 
-#EXTINF:-1 tvg-id="1090553651-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027677/1793258155606871_UNL26_MD5_Moldova-vs-Kazakhstan_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Moldova vs Kazakhstan - 13 Nov 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1311/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794630047~acl=/*~id=508d5e35ed6ea0d17999556ecd118b52-1794586846772~hmac=145534ae6cf590fe4f6e4fc3d14a334fd3ac9de13c81edc81169a76b8a5c9709
+#EXTINF:-1 tvg-id="1090553928-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887700360295_ASIANTOUR2026_Philippine_Open_Day3_landscape_thumb.jpg" group-title="Premium Plugx Sports", Philippine Open - Day 3 - 14 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_Phi1411/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794665689~acl=/*~id=bd716b63f165aa118fefb83f6f75a73e-1794622488711~hmac=14187f4b0bb91b4e5d5f91ef5ce2f429a85b4050be45a5aed6c157dc74f4cbc1
 
-#EXTINF:-1 tvg-id="1090553651-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027677/1793258155606871_UNL26_MD5_Moldova-vs-Kazakhstan_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Moldova vs Kazakhstan - 13 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
+#EXTINF:-1 tvg-id="1090553928-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887700360295_ASIANTOUR2026_Philippine_Open_Day3_landscape_thumb.jpg" group-title="Premium Plugx Sports", Philippine Open - Day 3 - 14 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/4CO8p1OmQhKwNcYCQpmFXw/master.m3u8
 
